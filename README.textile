@@ -1,3 +1,5 @@
+h1. "More information":http://benji.so/2012/11/27/a-guide-to-enki-heroku-deployment
+
 h1. Enki
 
 A Ruby on Rails blogging app for the fashionable developer.
