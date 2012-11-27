@@ -1,3 +1,5 @@
+!http://benji.so/assets/blog/enki-heroku-deployment.png!
+
 h1. "More information about Enki for Heroku":http://benji.so/2012/11/27/a-guide-to-enki-heroku-deployment
 
 h2. 
