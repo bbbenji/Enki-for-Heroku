@@ -55,7 +55,7 @@ group :test do
   gem 'cucumber-websteps', :require => false
   gem 'factory_girl'
   gem 'rspec'
-  gem 'nokogiri', '~> 1.5.0'
+  gem 'nokogiri', '~> 1.6.11'
   gem 'webrat'
 end
 
